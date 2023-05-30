@@ -4,8 +4,10 @@ player_health = 100
 opponent_health = 100
 opponent_big_attack_counter = 0
 
-print("Welcome to Gladiator Battle!")
-print("You are facing off against your opponent.")
+print("Welcome to the Colusseum Gladiator! Arm yourself and prepare for battle!")
+print("Your opponent is hungry for blood. I'd be on my guard if I were you.")
+print("He has a wild swing, but your shield seems sturdy. Just remember to use it.")
+print("Enough with talk, now get ready to fight for the glory of Rome!")
 
 # While loop. Keeps game going while conditions are met
 while player_health > 0 and opponent_health > 0:
